@@ -4,4 +4,6 @@ A repository with assets for [`game`/`application`/`project`]: sprites, textures
 
 ___
 
-*ByTrollka · 2026*
+<div align="right">
+  <em>ByTrollka · 2026</em>
+</div>
