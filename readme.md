@@ -5,5 +5,5 @@ A repository with assets for [`game`/`application`/`project`]: sprites, textures
 ___
 
 <div align="right">
-  <em>ByTrollka · 2026</em>
+  <em>BySwitrue · 2026</em>
 </div>
